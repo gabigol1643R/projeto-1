@@ -1,2 +1,3 @@
-  const m = 'mercado';
-  console.log(m);
+const m = 'mercado';
+const p = 'pagamento';
+console.log(m, p);
